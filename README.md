@@ -1,4 +1,6 @@
 # 2048 Number Game
+![Tic-Tac-Toe](2048.png)
+
 
 Welcome to the 2048 Number Game! This is a popular sliding block puzzle game built using HTML, CSS, and JavaScript. The objective of the game is to slide numbered tiles on a grid to combine them and create a tile with the number 2048.
 
