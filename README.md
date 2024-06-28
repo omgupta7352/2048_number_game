@@ -10,7 +10,6 @@ Welcome to the 2048 Number Game! This is a popular sliding block puzzle game bui
 - [Usage](#usage)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -66,6 +65,3 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 4. **Push to the branch:** `git push origin feature/your-feature-name`
 5. **Open a pull request**
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
