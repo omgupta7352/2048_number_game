@@ -22,7 +22,7 @@ Welcome to the 2048 Number Game! This is a popular sliding block puzzle game bui
 
 ## Demo
 
-You can try out the game live [here](https://example.com/2048_number_game).
+You can try out the game live [here](https://omgupta7352.github.io/2048_number_game/).
 
 ## Installation
 
