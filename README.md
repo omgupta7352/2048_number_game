@@ -40,10 +40,6 @@ To run the 2048 Number Game locally, follow these steps:
     cd 2048_number_game
     ```
 
-3. **Open `index.html` in your web browser:**
-
-    You can open the file directly in your browser or use a local server like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for a better development experience.
-
 ## Usage
 
 Once you have the game open in your browser, you can start playing immediately. Use the arrow keys on your keyboard to move the tiles. When two tiles with the same number touch, they merge into one with the sum of their values.
