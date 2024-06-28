@@ -31,7 +31,7 @@ To run the 2048 Number Game locally, follow these steps:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/2048_number_game.git
+    git clone https://github.com/omgupta7352/2048_number_game.git
     ```
 
 2. **Navigate to the project directory:**
